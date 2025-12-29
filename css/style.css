@@ -1696,7 +1696,7 @@ h3 {
 
 /* line 84, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_offers.scss */
 .video_bg {
-  background-image: url(../img/video/video.png);
+  background-image: url(../gbedu-img.jpg);
 }
 
 /* line 87, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_offers.scss */
@@ -2959,7 +2959,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_latest_activites.scss */
 .video_bg_1 {
-  background-image: url(../img/banner/man.png);
+  background-image: url(../gbedu-img.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
